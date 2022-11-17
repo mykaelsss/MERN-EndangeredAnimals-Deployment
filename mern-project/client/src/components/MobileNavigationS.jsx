@@ -78,7 +78,7 @@ const MobileNavigationS = ({check,change}) => {
         <Box sx={{ flexGrow: 1 }} className='MobileNav '>
         <AppBar position="static">
         <Toolbar>
-        <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} className='text-center'>
+        <Typography variant="p" component="div" sx={{ flexGrow: 1 }} className='text-center text-lg'>
             Sources Used For Website
           </Typography>
           <FormGroup className='icon'>
