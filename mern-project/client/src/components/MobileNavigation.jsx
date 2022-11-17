@@ -77,7 +77,7 @@ const MobileNavigation = ({check,change}) => {
         <Box sx={{ flexGrow: 1 }} className='MobileNav '>
         <AppBar position="static">
         <Toolbar>
-        <Typography variant="p" component="div" sx={{ flexGrow: 1 }} className='text-center text-base'>
+        <Typography variant="p" component="div" sx={{ flexGrow: 1 }} className='text-center text-sm'>
             Endangered Animals You Can Help
           </Typography>
           <FormGroup className='icon'>
